@@ -1,0 +1,35 @@
+languageCode = "en-us"
+title = "Noah Dietz"
+baseurl = "http://www.noahdietz.me/"
+theme = "aerial"
+
+[params]
+  name = "Noah Dietz"
+  about = "Software Engineer &nbsp;&bull;&nbsp; Sports fan &nbsp;&bull;&nbsp; Star Wars over Star Trek"
+  copyright = "Noah Dietz"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "off please"
+  favicon = "favicon.ico"
+  coffeeName = "Honey Co. Kenya Ngunguru"
+  coffeeLink = "https://honeycocoffee.com/products/kenya-nyeri-ngunguru"
+  currentlyAt = "Sunnyvale, CA"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "http://twitter.com/no_d_here"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/noah_dietz/"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/noahdietz"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:noahdietz24@gmail.com"
