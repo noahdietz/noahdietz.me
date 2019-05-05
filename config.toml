@@ -29,7 +29,3 @@ theme = "aerial"
   icon = "github"
   link = "https://github.com/noahdietz"
 
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "mailto:noahdietz24@gmail.com"
