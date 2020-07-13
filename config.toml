@@ -1,18 +1,18 @@
 languageCode = "en-us"
 title = "Noah Dietz"
-baseurl = "http://www.noahdietz.me/"
+baseurl = "https://www.noahdietz.me/"
 theme = "aerial"
 
 [params]
   name = "Noah Dietz"
-  about = "Software Engineer &nbsp;&bull;&nbsp; Sports fan &nbsp;&bull;&nbsp; Star Wars Junky"
+  about = "Software Engineer &nbsp;&bull;&nbsp; Sports fan &nbsp;&bull;&nbsp; Runner"
   copyright = "Noah Dietz"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "off please"
   favicon = "favicon.ico"
-  coffeeName = "Honey Co. Kenya Ngunguru"
-  coffeeLink = "https://honeycocoffee.com/products/kenya-nyeri-ngunguru"
-  currentlyAt = "Sunnyvale, CA"
+  coffeeName = "Black Oak Coffee Roasters - Congo Kivu"
+  coffeeLink = "https://blackoakcoffee.com/collections/single-origin-coffees/products/congo-kivu"
+  currentlyAt = "Mountain View, CA"
 
 [[params.social]]
   medium = "Twitter"
