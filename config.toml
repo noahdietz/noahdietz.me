@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Noah Dietz"
-baseurl = "https://www.noahdietz.me/"
+baseurl = "https://noahdietz.me/"
 theme = "aerial"
 
 [params]
