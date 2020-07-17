@@ -10,8 +10,8 @@ theme = "aerial"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "off please"
   favicon = "favicon.ico"
-  coffeeName = "Black Oak Coffee Roasters - Congo Kivu"
-  coffeeLink = "https://blackoakcoffee.com/collections/single-origin-coffees/products/congo-kivu"
+  coffeeName = "Black Oak Coffee Roasters - Brazil Minas"
+  coffeeLink = "https://blackoakcoffee.com/collections/single-origin-coffees/products/brazil-minas"
   currentlyAt = "Mountain View, CA"
 
 [[params.social]]
