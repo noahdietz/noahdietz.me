@@ -38,6 +38,6 @@ I live in Half Moon Bay, CA, USA with my wife Emma.
 
 | Thing | Stuff |
 | ----- | ----- |
-| Currently at|  Google |
-| Working on|  Cloud API Design &  |Developer | Experience |
-| Started|  2017-01-17 |
+| Currently at |  Google |
+| Working on |  Cloud API Design & Developer Experience |
+| Started |  2017-01-17 |
