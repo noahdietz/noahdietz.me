@@ -2,8 +2,7 @@
 
 ## Life
 
-Home: Half Moon Bay, CA
-Wife: Emma
+I live in Half Moon Bay, CA, USA with my wife Emma.
 
 ### Pets
 
@@ -28,13 +27,17 @@ Wife: Emma
 
 ### Coffee
 
-Brewer: Chemex
-Grinder: Baratza Encore w/Virtuoso burrs
-Roaster: Behmor 1600+
-Favorite cafe: Rebyl Coffee & Food
+| Thing | Stuff |
+| ------- | ------ |
+| Brewer |  Chemex |
+| Grinder | Baratza Encore w/Virtuoso burrs |
+| Roaster | Behmor 1600+ |
+| Favorite cafe | Rebyl Coffee & Food |
 
 ## Work
 
-Currently at: Google
-Working on: Cloud API Design & Developer Experience
-Started: 2017-01-17
+| Thing | Stuff |
+| ----- | ----- |
+| Currently at|  Google |
+| Working on|  Cloud API Design &  |Developer | Experience |
+| Started|  2017-01-17 |
